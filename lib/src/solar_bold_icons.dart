@@ -1246,6 +1246,7 @@ class SolarBold {
   static const IconData widget = IconData(0xecd4, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData wind = IconData(0xecd5, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData window_frame = IconData(0xecd6, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  // ignore: constant_identifier_names
   static const IconData wineglass_triangle = IconData(0xecd7, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData wineglass = IconData(0xecd8, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData winrar = IconData(0xecd9, fontFamily: _kFontFam, fontPackage: _kFontPkg);
